@@ -1,11 +1,11 @@
 {
-    "name": "console-sdk-php",
+    "name": "hzjw/console-sdk-php",
     "description": "HZJW CONSOLE SDK for PHP",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "H Z J W",
+            "name": "dingmengtao",
             "role": "Company"
         }
     ],
